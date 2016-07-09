@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_left.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_right.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newexit.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\newexit.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_friends.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\main_tab_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_xiaohei.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\info_xiaohei.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_weixin.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\main_tab_weixin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats_door.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\whats_door.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats6.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\whats6.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats3.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\whats3.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_xiaohei.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\chat_xiaohei.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog_from_settings.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\exit_dialog_from_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whatsnew_viewpager.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\whatsnew_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_address.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\main_tab_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats1.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\whats1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shake_activity.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\shake_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats4.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\whats4.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_top_right_dialog.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\main_top_right_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\appstart.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_settings.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\main_tab_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_weixin.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\main_weixin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats5.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\whats5.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats2.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\whats2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_xiaohei_head.xml",
+        "source": "C:\\Users\\mn\\Desktop\\MyAppWeixin\\app\\src\\main\\res\\layout\\info_xiaohei_head.xml"
+    }
+]

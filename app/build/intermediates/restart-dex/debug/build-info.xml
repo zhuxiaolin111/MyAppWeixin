@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="4668987193380" >
+
+    <task
+        name="javac"
+        duration="588" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="237" />
+    <task
+        name="verifier"
+        duration="59" />
+
+    <artifact
+        location="C:\Users\mn\Desktop\MyAppWeixin\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="4668987193380" >
+        <artifact
+            location="C:\Users\mn\Desktop\MyAppWeixin\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
